@@ -2,12 +2,12 @@
 
 ## Introduction
 
-This repository showcases my final projects in Data Science, where I have worked on two different datasets to build predictive models and analyze various aspects of the data. The two datasets used in this project are:
+This repository showcases my final projects in Data Science, where I have worked on two different datasets to build predictive models and analyze various aspects of the data. The two datasets used in these projects are:
 
 1. **Spotify_Data** from Guvi
 2. **Job_Salary_Prediction** from Kaggle 
 
-For each dataset, I have conducted thorough data analysis, preprocessing, model development, and evaluation to make accurate predictions. Below, I provide a brief overview of each dataset and highlight key achievements in these project.
+For each dataset, I have conducted thorough data analysis, preprocessing, model development, and evaluation to make accurate predictions. Below, I provide a brief overview of each dataset and highlight key achievements in these projects.
 
 ---
 
@@ -60,6 +60,7 @@ This dataset comprises Spotify tracks spanning across 125 diverse genres. Every 
 - Conducted thorough data cleansing and feature engineering to preprocess the dataset in preparation for modeling.
 - Performed comprehensive data analysis to ascertain the variables influencing Salary.
 - Preprocessed and cleaned the dataset, addressing missing data and encoding categorical features.
+- Tried to achieve as low MAPE score as possible (Evaluation Matrix of the competition : MAPE)
 - Built a robust predictive model for predicting the Salary for Job Postings.
 
 ### Column Description:
