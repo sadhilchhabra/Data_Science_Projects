@@ -14,8 +14,8 @@ For each dataset, I have conducted thorough data analysis, preprocessing, model 
 ## Project_1: Spotify Songs Genre Prediction
 
 ### Dataset Description:
-- Data Source: Guvi
-- Objective: Predict the Genre of the music based on most suitable features like speechiness, instrumentalness, danceability and more.
+- **Data Source**: Guvi
+- **Objective**: Predict the Genre of the music based on most suitable features like speechiness, instrumentalness, danceability and more.
 
 ### Achievements:
 - Conducted thorough data cleaning and feature engineering to preprocess the dataset in preparation for modeling.
@@ -53,8 +53,9 @@ This dataset comprises Spotify tracks spanning across 125 diverse genres. Every 
 ## Project_2: Salary Prediction for Job Posting
 
 ### Dataset Description:
-- Data Source: Kaggle (Kaggle Competition)
-- Objective: Predict the Salary for Job Posting based on most suitable features like Skills, Company and more.
+- **Data Source**: Kaggle (Kaggle Competition)
+- **Objective**: Predict the Salary for Job Posting based on most suitable features like Skills, Company and more.
+- **Evaluation Matrix** *(as given in the description of Kaggle Competition)*: Mean Absolute Percentage Error (MAPE)
 
 ### Achievements:
 - Conducted thorough data cleansing and feature engineering to preprocess the dataset in preparation for modeling.
