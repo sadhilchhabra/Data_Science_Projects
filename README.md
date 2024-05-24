@@ -97,4 +97,4 @@ The dataset consists of over 55000 job postings about Data World, including skil
 
 I was able to complete two different machine learning tasks for my final project. Each one had its own challenges. The project shows that I can look at data, create features, choose the right machine learning algorithms, and tweak models so they can make accurate predictions.
 
-You can look through the different folders in this repository to get to the code, Jupyter notebooks, and detailed documentation for each dataset. I hope this project shows how machine learning can be used to solve problems in the real world and make the day-to-day tasks easy.
+You can look through the different folders in this repository to get to the code, Jupyter notebooks, and detailed documentation for each dataset. I hope this project shows how machine learning can be used to solve problems in the real world.
