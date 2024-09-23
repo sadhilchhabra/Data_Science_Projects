@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository showcases my final projects in Data Science, where I have worked on two different datasets to build predictive models and analyze various aspects of the data. The two datasets used in these projects are:
+This repository showcases my projects in Data Science, where I have worked on two different datasets to build predictive models and analyze various aspects of the data. The two datasets used in these projects are:
 
 1. **Spotify_Data** from Guvi
 2. **Job_Salary_Prediction** from Kaggle 
